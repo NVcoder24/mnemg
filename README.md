@@ -1,6 +1,9 @@
 # MNEMG
 Берёт картинку и выплёвывает код на lua для майнкрафта
 
+## Пример использования
+![image](https://github.com/NVcoder24/mnemg/blob/resources/Screenshot_43.png)
+
 ## Как использовать
 ![image](https://github.com/NVcoder24/mnemg/blob/resources/Screenshot_82.png)
 1. Выбираем файл картинки

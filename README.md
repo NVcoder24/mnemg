@@ -14,5 +14,7 @@
 
 ## Как компилить
 Я использую компилятор ```pyinstaller```
+
 Для его установки: ```pip install pyinstaller```
-Для компиляции ```pyinstaller main.py --noconsole --onefile```
+
+Для компиляции: ```pyinstaller main.py --noconsole --onefile```
